@@ -1,4 +1,4 @@
-# Jobbridge
+# JobBridge
 
 Jobbridge är en AI-driven plattform för rekrytering där kandidater
 skapar profiler genom intervjuer och tester i stället för traditionella CV:n.
